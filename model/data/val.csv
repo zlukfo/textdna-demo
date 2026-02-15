@@ -1,0 +1,301 @@
+text,content_type,text_type,emotion_type
+никогда больше не обращусь к вам!,emotion,review,anger
+Эксперты прогнозируют рост на 10%.,fact,news,neutral
+Бюджет проекта — 2 миллиона рублей...,fact,business,neutral
+Давай встретимся завтра.,action,chat,neutral
+В штате компании 150 сотрудников...,fact,business,neutral
+Это просто наглость.,emotion,review,anger
+бюджет проекта — 2 миллиона рублей.,fact,business,neutral
+в штате компании 150 сотрудников.,fact,business,neutral
+Привет. Как дела?,emotion,chat,joy
+В комплекте идёт зарядное устройство...,fact,review,neutral
+Шок. Этого никто не ожидал.,emotion,news,surprise
+"Боюсь, что не успеем в срок.",emotion,business,fear
+Не могу поверить своим глазам!,emotion,chat,surprise
+противно даже смотреть на это.,emotion,review,disgust
+новый закон вступает в силу с января.,fact,news,neutral
+закажите и получите подарок!,action,advertising,joy
+Вот это поворот.,emotion,chat,surprise
+Просим подготовить отчёт к понедельнику.,action,business,neutral
+Закажите и получите подарок.,action,advertising,joy
+Необходимо согласовать документы.,action,business,neutral
+"ну такое себе, честно говоря.",emotion,chat,disgust
+Тревожная ситуация складывается...,emotion,news,fear
+Безобразие! Куда смотрит руководство?,emotion,review,anger
+Расстроен результатом.,emotion,review,sadness
+Грустно видеть такое качество...,emotion,review,sadness
+Договор заключён на 3 года...,fact,business,neutral
+"боюсь, что не успеем в срок.",emotion,business,fear
+"Боюсь, что не успеем в срок.",emotion,business,fear
+Новый закон вступает в силу с января...,fact,news,neutral
+Просим подготовить отчёт к понедельнику.,action,business,neutral
+Курс доллара составил 90 рублей...,fact,news,neutral
+"лол, это смешно!",emotion,chat,joy
+необходимо согласовать документы.,action,business,neutral
+"ну такое себе, честно говоря.",emotion,chat,disgust
+Бюджет проекта — 2 миллиона рублей.,fact,business,neutral
+шок! Этого никто не ожидал!,emotion,news,surprise
+"Неожиданно, но приятно.",emotion,review,surprise
+отвратительное качество!,emotion,review,disgust
+Назначьте встречу на завтра...,action,business,neutral
+я в бешенстве от такого сервиса!,emotion,review,anger
+"к сожалению, не оправдало ожиданий.",emotion,review,sadness
+Нажмите и узнайте секрет!,action,advertising,surprise
+Давай встретимся завтра...,action,chat,neutral
+Тревожная ситуация складывается...,emotion,news,fear
+закажите и получите подарок!,action,advertising,joy
+Это просто восхитительно!,emotion,review,joy
+Курс доллара составил 90 рублей.,fact,news,neutral
+успейте купить по старой цене!,action,advertising,fear
+температура воздуха достигла 30 градусов.,fact,news,neutral
+"скинь ссылку, пожалуйста.",action,chat,neutral
+Бюджет проекта — 2 миллиона рублей.,fact,business,neutral
+"Мерзость, а не продукт.",emotion,review,disgust
+температура воздуха достигла 30 градусов.,fact,news,neutral
+Обожаю эту вещь!,emotion,review,joy
+Вот это поворот!,emotion,chat,surprise
+шок! Этого никто не ожидал!,emotion,news,surprise
+Невероятно счастлив.,emotion,chat,joy
+успейте купить по старой цене!,action,advertising,fear
+"к сожалению, не оправдало ожиданий.",emotion,review,sadness
+"К сожалению, не оправдало ожиданий.",emotion,review,sadness
+спасибо за информацию!,emotion,chat,joy
+Регистрируйтесь и выигрывайте.,action,advertising,joy
+получите доступ уже сегодня!,action,advertising,joy
+Страшно представить последствия.,emotion,chat,fear
+я в бешенстве от такого сервиса!,emotion,review,anger
+Я в полном восторге от покупки.,emotion,review,joy
+успейте купить по старой цене!,action,advertising,fear
+"Торопитесь, осталось мало!",action,advertising,fear
+Отвратительное качество.,emotion,review,disgust
+"ну такое себе, честно говоря.",emotion,chat,disgust
+"Лол, это смешно.",emotion,chat,joy
+"опасаюсь, что это не конец.",emotion,chat,fear
+"неожиданно, но приятно!",emotion,review,surprise
+Я в полном восторге от покупки.,emotion,review,joy
+договор заключён на 3 года.,fact,business,neutral
+это просто восхитительно!,emotion,review,joy
+"окей, понял тебя.",fact,chat,neutral
+Срок выполнения — 14 рабочих дней.,fact,business,neutral
+"Ну такое себе, честно говоря...",emotion,chat,disgust
+расстроен результатом.,emotion,review,sadness
+Это просто наглость!,emotion,review,anger
+Гарантия на товар — 1 год.,fact,review,neutral
+"Опасаюсь, что это не конец.",emotion,chat,fear
+Назначьте встречу на завтра...,action,business,neutral
+"Неожиданно, но приятно.",emotion,review,surprise
+В штате компании 150 сотрудников...,fact,business,neutral
+Это возмутительно!,emotion,review,anger
+Доставка заняла 3 дня.,fact,review,neutral
+Курс доллара составил 90 рублей.,fact,news,neutral
+Температура воздуха достигла 30 градусов...,fact,news,neutral
+Температура воздуха достигла 30 градусов...,fact,news,neutral
+доставка заняла 3 дня.,fact,review,neutral
+Расстроен результатом...,emotion,review,sadness
+Никогда больше не обращусь к вам.,emotion,review,anger
+Нажмите и узнайте секрет.,action,advertising,surprise
+Спасибо за информацию!,emotion,chat,joy
+В штате компании 150 сотрудников...,fact,business,neutral
+я в бешенстве от такого сервиса!,emotion,review,anger
+эксперты прогнозируют рост на 10%.,fact,news,neutral
+Вот это поворот.,emotion,chat,surprise
+Температура воздуха достигла 30 градусов.,fact,news,neutral
+"скинь ссылку, пожалуйста.",action,chat,neutral
+Никогда больше не обращусь к вам.,emotion,review,anger
+Назначьте встречу на завтра.,action,business,neutral
+необходимо согласовать документы.,action,business,neutral
+Никогда больше не обращусь к вам!,emotion,review,anger
+"Торопитесь, осталось мало!",action,advertising,fear
+"прекрасный подарок, спасибо!",emotion,chat,joy
+Гарантия на товар — 1 год...,fact,review,neutral
+лучший день в моей жизни!,emotion,chat,joy
+Это просто наглость!,emotion,review,anger
+Купите прямо сейчас со скидкой 50%!,action,advertising,neutral
+спасибо за информацию!,emotion,chat,joy
+Хватит издеваться над клиентами!,emotion,review,anger
+"печально, но факт.",emotion,chat,sadness
+"Окей, понял тебя.",fact,chat,neutral
+привет! Как дела?,emotion,chat,joy
+В комплекте идёт зарядное устройство...,fact,review,neutral
+не могу поверить своим глазам!,emotion,chat,surprise
+"боюсь, что не успеем в срок.",emotion,business,fear
+"очень жаль, что так получилось.",emotion,chat,sadness
+"Лол, это смешно.",emotion,chat,joy
+Курс доллара составил 90 рублей...,fact,news,neutral
+"Боюсь, что не успеем в срок...",emotion,business,fear
+Выручка компании выросла на 15%...,fact,news,neutral
+"Мерзость, а не продукт!",emotion,review,disgust
+Температура воздуха достигла 30 градусов.,fact,news,neutral
+"Ну такое себе, честно говоря...",emotion,chat,disgust
+шок! Этого никто не ожидал!,emotion,news,surprise
+шок! Этого никто не ожидал!,emotion,news,surprise
+В комплекте идёт зарядное устройство.,fact,review,neutral
+Я в полном восторге от покупки.,emotion,review,joy
+"К сожалению, не оправдало ожиданий.",emotion,review,sadness
+грустно видеть такое качество.,emotion,review,sadness
+Количество пользователей превысило миллион.,fact,news,neutral
+температура воздуха достигла 30 градусов.,fact,news,neutral
+Нажмите и узнайте секрет.,action,advertising,surprise
+Прошу направить ответ до конца дня.,action,business,neutral
+Страшно представить последствия...,emotion,chat,fear
+новый закон вступает в силу с января.,fact,news,neutral
+В штате компании 150 сотрудников.,fact,business,neutral
+"Опасаюсь, что это не конец.",emotion,chat,fear
+Регистрируйтесь и выигрывайте!,action,advertising,joy
+"торопитесь, осталось мало!",action,advertising,fear
+закажите и получите подарок!,action,advertising,joy
+Индекс вырос на 5 пунктов за неделю.,fact,news,neutral
+"очень жаль, что так получилось.",emotion,chat,sadness
+нажмите и узнайте секрет!,action,advertising,surprise
+Ничего себе! Как такое возможно?,emotion,chat,surprise
+Размер соответствует заявленному...,fact,review,neutral
+это просто наглость!,emotion,review,anger
+"Скинь ссылку, пожалуйста...",action,chat,neutral
+Выручка компании выросла на 15%...,fact,news,neutral
+Это просто наглость!,emotion,review,anger
+Не упустите свой шанс.,action,advertising,fear
+получите доступ уже сегодня!,action,advertising,joy
+Доставка заняла 3 дня.,fact,review,neutral
+Индекс вырос на 5 пунктов за неделю.,fact,news,neutral
+Срок выполнения — 14 рабочих дней...,fact,business,neutral
+"Мерзость, а не продукт!",emotion,review,disgust
+Шок. Этого никто не ожидал.,emotion,news,surprise
+Доставка заняла 3 дня...,fact,review,neutral
+"Неожиданно, но приятно!",emotion,review,surprise
+подтвердите получение письма.,action,business,neutral
+"ужасное обслуживание, фу!",emotion,review,disgust
+"Очень жаль, что так получилось.",emotion,chat,sadness
+ничего себе! Как такое возможно?,emotion,chat,surprise
+Я в бешенстве от такого сервиса.,emotion,review,anger
+Гарантия на товар — 1 год...,fact,review,neutral
+В комплекте идёт зарядное устройство.,fact,review,neutral
+я в полном восторге от покупки!,emotion,review,joy
+Спасибо за информацию.,emotion,chat,joy
+Необходимо согласовать документы...,action,business,neutral
+не упустите свой шанс!,action,advertising,fear
+Успейте купить по старой цене.,action,advertising,fear
+Это просто восхитительно.,emotion,review,joy
+привет! Как дела?,emotion,chat,joy
+Не упустите свой шанс!,action,advertising,fear
+Прошу направить ответ до конца дня...,action,business,neutral
+температура воздуха достигла 30 градусов.,fact,news,neutral
+Страшно представить последствия...,emotion,chat,fear
+"Ну такое себе, честно говоря...",emotion,chat,disgust
+Расстроен результатом...,emotion,review,sadness
+подпишитесь на канал!,action,advertising,neutral
+Выручка компании выросла на 15%.,fact,news,neutral
+вот это поворот!,emotion,chat,surprise
+в комплекте идёт зарядное устройство.,fact,review,neutral
+Фантастика. Всё работает идеально.,emotion,review,joy
+Спасибо за информацию.,emotion,chat,joy
+Спасибо за информацию!,emotion,chat,joy
+Получите доступ уже сегодня!,action,advertising,joy
+безобразие! Куда смотрит руководство?,emotion,review,anger
+Давай встретимся завтра.,action,chat,neutral
+Бюджет проекта — 2 миллиона рублей.,fact,business,neutral
+Размер соответствует заявленному.,fact,review,neutral
+Подпишитесь на канал.,action,advertising,neutral
+Противно даже смотреть на это...,emotion,review,disgust
+"торопитесь, осталось мало!",action,advertising,fear
+Безобразие. Куда смотрит руководство?,emotion,review,anger
+Индекс вырос на 5 пунктов за неделю...,fact,news,neutral
+привет! Как дела?,emotion,chat,joy
+Лучший день в моей жизни!,emotion,chat,joy
+Скачайте приложение бесплатно!,action,advertising,joy
+это просто наглость!,emotion,review,anger
+Выручка компании выросла на 15%.,fact,news,neutral
+Квартальная прибыль составила 5 млн рублей.,fact,business,neutral
+успейте купить по старой цене!,action,advertising,fear
+температура воздуха достигла 30 градусов.,fact,news,neutral
+это просто восхитительно!,emotion,review,joy
+Назначьте встречу на завтра.,action,business,neutral
+Подпишитесь на канал!,action,advertising,neutral
+"по данным исследования, 80% опрошенных согласны.",fact,news,neutral
+"Окей, понял тебя.",fact,chat,neutral
+просим подготовить отчёт к понедельнику.,action,business,neutral
+Курс доллара составил 90 рублей...,fact,news,neutral
+нажмите и узнайте секрет!,action,advertising,surprise
+Безобразие. Куда смотрит руководство?,emotion,review,anger
+подтвердите получение письма.,action,business,neutral
+успейте купить по старой цене!,action,advertising,fear
+супер! Очень доволен!,emotion,review,joy
+Не упустите свой шанс.,action,advertising,fear
+курс доллара составил 90 рублей.,fact,news,neutral
+ничего себе! Как такое возможно?,emotion,chat,surprise
+Тревожная ситуация складывается...,emotion,news,fear
+Хватит издеваться над клиентами.,emotion,review,anger
+Гарантия на товар — 1 год.,fact,review,neutral
+Безобразие! Куда смотрит руководство?,emotion,review,anger
+безобразие! Куда смотрит руководство?,emotion,review,anger
+Не могу поверить своим глазам.,emotion,chat,surprise
+Курс доллара составил 90 рублей...,fact,news,neutral
+Скачайте приложение бесплатно!,action,advertising,joy
+Никогда больше не обращусь к вам!,emotion,review,anger
+"Лол, это смешно!",emotion,chat,joy
+не могу поверить своим глазам!,emotion,chat,surprise
+Бюджет проекта — 2 миллиона рублей.,fact,business,neutral
+выручка компании выросла на 15%.,fact,news,neutral
+регистрируйтесь и выигрывайте!,action,advertising,joy
+Закажите и получите подарок!,action,advertising,joy
+"Ужасное обслуживание, фу!",emotion,review,disgust
+Вот это поворот.,emotion,chat,surprise
+Получите доступ уже сегодня.,action,advertising,joy
+Отвратительное качество!,emotion,review,disgust
+Эксперты прогнозируют рост на 10%...,fact,news,neutral
+"печально, но факт.",emotion,chat,sadness
+В штате компании 150 сотрудников...,fact,business,neutral
+регистрируйтесь и выигрывайте!,action,advertising,joy
+ничего себе! Как такое возможно?,emotion,chat,surprise
+не могу поверить своим глазам!,emotion,chat,surprise
+"Скинь ссылку, пожалуйста.",action,chat,neutral
+Вот это поворот.,emotion,chat,surprise
+"Неожиданно, но приятно.",emotion,review,surprise
+фантастика! Всё работает идеально!,emotion,review,joy
+срок выполнения — 14 рабочих дней.,fact,business,neutral
+Никогда больше не обращусь к вам!,emotion,review,anger
+невероятно счастлив!,emotion,chat,joy
+Спасибо за информацию!,emotion,chat,joy
+выручка компании выросла на 15%.,fact,news,neutral
+новый закон вступает в силу с января.,fact,news,neutral
+Скачайте приложение бесплатно!,action,advertising,joy
+Получите доступ уже сегодня.,action,advertising,joy
+Лучший день в моей жизни.,emotion,chat,joy
+"боюсь, что не успеем в срок.",emotion,business,fear
+ничего себе! Как такое возможно?,emotion,chat,surprise
+Необходимо согласовать документы.,action,business,neutral
+Подпишитесь на канал!,action,advertising,neutral
+Эксперты прогнозируют рост на 10%...,fact,news,neutral
+Количество пользователей превысило миллион.,fact,news,neutral
+В комплекте идёт зарядное устройство.,fact,review,neutral
+Бюджет проекта — 2 миллиона рублей.,fact,business,neutral
+Страшно представить последствия.,emotion,chat,fear
+"Мерзость, а не продукт!",emotion,review,disgust
+"Неожиданно, но приятно!",emotion,review,surprise
+ничего себе! Как такое возможно?,emotion,chat,surprise
+"ну такое себе, честно говоря.",emotion,chat,disgust
+Подтвердите получение письма.,action,business,neutral
+Срок выполнения — 14 рабочих дней.,fact,business,neutral
+"К сожалению, не оправдало ожиданий...",emotion,review,sadness
+Никогда больше не обращусь к вам.,emotion,review,anger
+Прошу направить ответ до конца дня.,action,business,neutral
+Скачайте приложение бесплатно.,action,advertising,joy
+Необходимо согласовать документы.,action,business,neutral
+В штате компании 150 сотрудников.,fact,business,neutral
+Это просто восхитительно!,emotion,review,joy
+"Неожиданно, но приятно!",emotion,review,surprise
+"прекрасный подарок, спасибо!",emotion,chat,joy
+"Боюсь, что не успеем в срок.",emotion,business,fear
+Срок выполнения — 14 рабочих дней...,fact,business,neutral
+Прошу направить ответ до конца дня.,action,business,neutral
+тревожная ситуация складывается.,emotion,news,fear
+Закажите и получите подарок.,action,advertising,joy
+расстроен результатом.,emotion,review,sadness
+Договор заключён на 3 года.,fact,business,neutral
+просим подготовить отчёт к понедельнику.,action,business,neutral
+не могу поверить своим глазам!,emotion,chat,surprise
+Бюджет проекта — 2 миллиона рублей...,fact,business,neutral
+Размер соответствует заявленному.,fact,review,neutral
+Противно даже смотреть на это...,emotion,review,disgust
+Грустно видеть такое качество.,emotion,review,sadness
+"Опасаюсь, что это не конец...",emotion,chat,fear
+"Скинь ссылку, пожалуйста...",action,chat,neutral
