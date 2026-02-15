@@ -1,13 +1,10 @@
 # Модели
-*.bin
 *.pt
 *.pth
 *.safetensors
 *.onnx
 *.pkl
 *.h5
-model/final/
-model/
 
 # Python
 __pycache__/
